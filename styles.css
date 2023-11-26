@@ -1,0 +1,10 @@
+h1 {
+    font-family: Copperplate;
+}
+
+a {
+    background-color: rgba(0, 0, 0, 0.644);
+    color: white;
+    height: 30px;
+    margin-right: 30px;
+}
